@@ -1,0 +1,7 @@
+{
+    "todoList":[
+        {"id":1, "content": "Go to school"},
+        {"id":2, "content": "Study English"},
+        {"id":3, "content": "Study CoderX"}
+    ]
+}
